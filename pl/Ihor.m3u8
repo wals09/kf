@@ -1,0 +1,57 @@
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz"
+#EXTINF:0 tvg-name="NO EPG кино" tvg-id="" tvg-logo="http://45.159.189.42/Logo/olsib_USSR.png" tvg-rec="0",Welcome to USSR 30's 
+#EXTGRP:OLSIB TV
+http://45.159.189.42:8888/USSR_30/video.m3u8?token=at5xLCIOVYT7x2
+#EXTINF:0 tvg-name="NO EPG кино" tvg-id="" tvg-logo="http://45.159.189.42/Logo/olsib_USSR.png" tvg-rec="0",Welcome to USSR 40's 
+#EXTGRP:OLSIB TV
+http://45.159.189.42:8888/USSR_40/video.m3u8?token=at5xLCIOVYT7x2
+#EXTINF:0 tvg-name="NO EPG кино" tvg-id="" tvg-logo="http://45.159.189.42/Logo/olsib_USSR.png" tvg-rec="0",Welcome to USSR 50's 
+#EXTGRP:OLSIB TV
+http://45.159.189.42:8888/USSR_50/video.m3u8?token=at5xLCIOVYT7x2
+#EXTINF:0 tvg-name="NO EPG кино" tvg-id="" tvg-logo="http://45.159.189.42/Logo/olsib_USSR.png" tvg-rec="0",Welcome to USSR 60's 
+#EXTGRP:OLSIB TV
+http://85.215.49.113:8888/USSR_60/video.m3u8?token=zRBplVFaY7CXV0
+#EXTINF:0 tvg-name="NO EPG кино" tvg-id="" tvg-logo="http://45.159.189.42/Logo/The_Best.png" tvg-rec="0",OLSIB The Best Classic
+#EXTGRP:OLSIB TV
+http://45.159.189.42:8888/The_Best/video.m3u8?token=at5xLCIOVYT7x2
+#EXTINF:0 tvg-name="NO EPG кино" tvg-id="" tvg-logo="http://45.159.189.42/Logo/olsib_Fantasy.png" tvg-rec="0",OLSIB Fantasy FHD
+#EXTGRP:OLSIB TV
+http://45.159.189.42:8888/Fantasy/video.m3u8?token=at5xLCIOVYT7x2
+
+#EXTINF:0 tvg-name="NO EPG кино" tvg-id="" tvg-logo="http://45.159.189.42/Logo/olsib_crime.png" tvg-rec="0",OLSIB Crime FHD
+#EXTGRP:OLSIB TV
+http://45.159.189.42:8888/Crime/video.m3u8?token=at5xLCIOVYT7x2
+
+#EXTINF:0 tvg-name="NO EPG кино" tvg-id="" tvg-logo="http://45.159.189.42/Logo/olsib_Comedy.png" tvg-rec="0",OLSIB Comedy FHD
+#EXTGRP:OLSIB TV
+http://45.159.189.42:8888/Comedy/video.m3u8?token=at5xLCIOVYT7x2
+#EXTINF:0 tvg-name="NO EPG кино" tvg-id="" tvg-logo="http://45.159.189.42/Logo/olsib_war.png" tvg-rec="0",OLSIB War FHD
+#EXTGRP:OLSIB TV
+http://45.159.189.42:8888/War/video.m3u8?token=at5xLCIOVYT7x2
+#EXTINF:0 tvg-name="NO EPG кино" tvg-id="" tvg-logo="http://45.159.189.42/Logo/olsb_women.png" tvg-rec="0",Lovoche&OLSIB Love story FHD
+#EXTGRP:OLSIB TV
+http://45.159.189.42:8888/Love_story/video.m3u8?token=at5xLCIOVYT7x2
+#EXTINF:0 tvg-name="NO EPG кино" tvg-id="" tvg-logo="http://45.159.189.42/Logo/olsib_VHS.png" tvg-rec="0",OLSIB VHS FHD
+#EXTGRP:OLSIB TV
+http://45.159.189.42:8888/VHS/video.m3u8?token=at5xLCIOVYT7x2
+#EXTINF:0 tvg-name="NO EPG кино" tvg-id="" tvg-logo="http://45.159.189.42/Logo/olsib-Black_comedy.png" tvg-rec="0",OLSIB Black Comedy HD
+#EXTGRP:OLSIB TV
+http://45.159.189.42:8888/Black_comedy/video.m3u8?token=at5xLCIOVYT7x2
+#EXTINF:0 tvg-name="NO EPG кино" tvg-id="" tvg-logo="http://45.159.189.42/Logo/olsib_yolt.png" tvg-rec="0",OLSIB Walt Disney FHD
+#EXTGRP:OLSIB TV
+http://45.159.189.42:8888/Wal_Disney/video.m3u8?token=at5xLCIOVYT7x2
+
+#EXTINF:0 tvg-name="NO EPG кино" tvg-id="" tvg-logo="http://45.159.189.42/Logo/olsib_kids.png" tvg-rec="0",OLSIB Kids FHD
+#EXTGRP:OLSIB TV
+http://85.215.49.113:8888/Kids/video.m3u8?token=zRBplVFaY7CXV0
+
+#EXTINF:0 tvg-name="NO EPG музыка" tvg-id="" tvg-logo="http://45.159.189.42/Logo/olsib_Galicia.png" tvg-rec="0",OLSIB Galicia
+#EXTGRP:OLSIB TV
+http://45.159.189.42:8888/Galicia/video.m3u8?token=at5xLCIOVYT7x2
+
+#EXTINF:0 tvg-name="NO EPG музыка" tvg-id="" tvg-logo="http://45.159.189.42/Logo/olsib_music.png" tvg-rec="0",Lovoche&OLSIB  RU.Music FHD
+#EXTGRP:OLSIB TV
+http://45.159.189.42:8888/RU.Music/video.m3u8?token=at5xLCIOVYT7x2
+#EXTINF:0 tvg-name="NO EPG sport" tvg-id="" tvg-logo="http://45.159.189.42/Logo/olsib_Impact_Wrestling_logo.webp" tvg-rec="0",OLSIB IMPACT! Wrestling HD
+#EXTGRP:OLSIB TV
+http://85.215.49.113:8888/Wrestling/video.m3u8?token=zRBplVFaY7CXV0
