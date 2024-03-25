@@ -18,9 +18,9 @@
             },
             {
                "type": "space",
-               "layout": "2,1,8,4",
-               "offset": "-1.25,-1,2,1",
-               "image": "https://wals09.github.io/kf/img/logo111.png",
+               "layout": "5,3,2,2",
+               "offset": "-1,-1.5,1,1",
+               "image": "https://wals09.github.io/kf/img/logo.png",
                "imageFiller": "cover",
                "imageOverlay": 5
             },
