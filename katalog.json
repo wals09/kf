@@ -1,0 +1,111 @@
+{
+   "name": "Список",
+   "version": "1.0.0",
+   "headline": "КАТАЛОГ",
+   "dictionary": "https://maxaon09.github.io/lampaset/msx/lang/ru.json",
+   "menu": [
+      {
+         "type": "separator"
+      },
+      {
+         "icon": "vertical-split",
+         "iconSize": "extra-large",
+         "label": "Все фильмы",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://olsib.at.ua/Project_Free/All.m3u8"
+      },
+      {
+         "type": "separator"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Боевик",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/kf/pl/boeviky.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Фантастика",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/kf/pl/fantastic.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Фэнтези",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/kf/pl/fantasy.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Комикс",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/kf/pl/komix.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Приключения",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/kf/pl/adventure.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "small",
+         "label": "Ужастик",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/kf/pl/horror.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Триллер",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/kf/pl/triler.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Криминал",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/kf/pl/crime.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Роман",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/kf/pl/roman.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Комедия",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/kf/pl/comedy.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "СССР, ех-СССР",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/kf/pl/USSR.m3u8"
+      },
+      {
+         "icon": "tv",
+         "iconSize": "extra-large",
+         "label": "Анимационные",
+         "extensionLabel": "",
+         "data": "user:http://msx.benzac.de/services/m3u.php/msx/m3u.php?type=video&mode=extended&url=https://maxaon09.github.io/kf/pl/mult.m3u8"
+      },
+      {
+         "type": "separator"
+      },
+      {
+         "type": "separator"
+      }
+   ]
+}
