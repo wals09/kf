@@ -1,9 +1,9 @@
 {
    "type": "list",
-   "logo": "https://maxaon09.github.io/kf/img/logo.png",
-   "image": "https://maxaon09.github.io/kf/img/logo.png",
-   "background": "https://maxaon09.github.io/kf/img/bac.jpg",
-   "dictionary": "https://maxaon09.github.io/kf/dictionary.json",
+   "logo": "https://wals09.github.io/kf/img/logo.png",
+   "image": "https://wals09.github.io/kf/img/logo.png",
+   "background": "https://wals09.github.io/kf/img/bac.jpg",
+   "dictionary": "https://wals09.github.io/kf/dictionary.json",
    "preload": "next",
    "pages": [
       {
@@ -20,7 +20,7 @@
                "type": "space",
                "layout": "2,1,8,4",
                "offset": "-1.25,-1,2,1",
-               "image": "https://maxaon09.github.io/kf/img/logo111.png",
+               "image": "https://wals09.github.io/kf/img/logo111.png",
                "imageFiller": "cover",
                "imageOverlay": 5
             },
@@ -35,7 +35,7 @@
                "layout": "8,5,4,1",
                "color": "transparent",
                "label": "Каталог",
-               "action": "menu: https://maxaon09.github.io/kf/katalog.json"
+               "action": "menu: https://wals09.github.io/kf/katalog.json"
             },
             {
                "type": "default",
@@ -43,14 +43,14 @@
                "focus": true,
                "color": "transparent",
                "label": "Кинофраншизы",
-               "action": "content: https://maxaon09.github.io/kf/welcome.json"
+               "action": "content: https://wals09.github.io/kf/welcome.json"
             },
             {
                "type": "default",
                "layout": "4,5,4,1",
                "color": "transparent",
                "label": "Мультфраншизы",
-               "action": "content: https://maxaon09.github.io/kf/anime/anime.json"
+               "action": "content: https://wals09.github.io/kf/anime/anime.json"
             }
          ]
       }
