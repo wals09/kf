@@ -1,0 +1,61 @@
+{
+   "type": "pages",
+   "headline": "TV CANNEL",
+   "template": {
+      "tag": "",
+      "type": "separate",
+      "layout": "0,0,3,2",
+      "icon": "",
+      "color": "msx-glass"
+   },
+   "items": [
+      {
+         "title": "Welcome to USSR 30's",
+         "playerLabel": "Welcome to USSR 30's",
+         "image": "http://45.159.189.42/Logo/olsib_USSR.png",
+         "action": "video:http://74.208.36.86:8888/channel/77ce0e74/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c"
+      },
+      {
+         "title": "Welcome to USSR 40's",
+         "playerLabel": "Welcome to USSR 40's",
+         "image": "http://45.159.189.42/Logo/olsib_USSR.png",
+         "action": "video:http://74.208.36.86:8888/channel/77ce82d3/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c"
+      },
+      {
+         "title": "Welcome to USSR 50's",
+         "playerLabel": "Welcome to USSR 50's",
+         "image": "http://45.159.189.42/Logo/olsib_USSR.png",
+         "action": "video:http://74.208.36.86:8888/channel/77cef732/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c"
+      },
+      {
+         "title": "Welcome to USSR 60's",
+         "playerLabel": "Welcome to USSR 60's",
+         "image": "http://45.159.189.42/Logo/olsib_USSR.png",
+         "action": "video:http://74.208.36.86:8888/channel/74f3d59e/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c"
+      },
+      {
+         "title": "Welcome to USSR 30's",
+         "playerLabel": "Welcome to USSR 30's",
+         "image": "http://45.159.189.42/Logo/olsib_USSR.png",
+         "action": "video:http://74.208.36.86:8888/channel/77ce0e74/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c"
+      },
+      {
+         "title": "Welcome to USSR 40's",
+         "playerLabel": "Welcome to USSR 40's",
+         "image": "http://45.159.189.42/Logo/olsib_USSR.png",
+         "action": "video:http://74.208.36.86:8888/channel/77ce82d3/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c"
+      },
+      {
+         "title": "Welcome to USSR 50's",
+         "playerLabel": "Welcome to USSR 50's",
+         "image": "http://45.159.189.42/Logo/olsib_USSR.png",
+         "action": "video:http://74.208.36.86:8888/channel/77cef732/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c"
+      },
+      {
+         "title": "Welcome to USSR 60's",
+         "playerLabel": "Welcome to USSR 60's",
+         "image": "http://45.159.189.42/Logo/olsib_USSR.png",
+         "action": "video:http://74.208.36.86:8888/channel/74f3d59e/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c"
+      }
+   ]
+}

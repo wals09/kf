@@ -1,0 +1,407 @@
+{
+   "type": "list",
+   "headline": "",
+   "preload": "next",
+   "background": "https://sfwallpaper.com/images/tv-show-background-17.jpg",
+   "flag": "tabs",
+   "pages": [
+      {
+         "important": false,
+         "offset": "0,0,0,0.25",
+         "items": [
+            {
+               "type": "default",
+               "layout": "0,0,12,1",
+               "color": "msx-gray-soft",
+               "label": "{col:msx-white}Телеканалы OLSIB_TV"
+            }
+         ]
+      },
+      {
+         "offset": "0,0,1,1",
+         "headline": "тв каналы",
+         "items": [
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "0,0,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Welcome to USSR 30's",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib_USSR.png",
+               "playerLabel": "Welcome to USSR 30's",
+               "action": "video:http://74.208.36.86:8888/channel/77ce0e74/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}First Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "6,0,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Welcome to USSR 40's",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib_USSR.png",
+               "playerLabel": "Welcome to USSR 40's",
+               "action": "video:http://74.208.36.86:8888/channel/77ce82d3/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Second Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "0,1,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Welcome to USSR 50's",
+               "playerLabel": "Welcome to USSR 50's",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib_USSR.png",
+               "action": "video:http://74.208.36.86:8888/channel/77cef732/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Third Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "6,1,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Welcome to USSR 60's",
+               "playerLabel": "Welcome to USSR 60's",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib_USSR.png",
+               "action": "video:http://74.208.36.86:8888/channel/74f3d59e/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Fourth Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "0,2,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Welcome to USSR 70's",
+               "playerLabel": "Welcome to USSR 70's",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib_USSR.png",
+               "action": "video:http://74.208.36.86:8888/channel/74f449fd/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Fifth Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "6,2,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Welcome to USSR 80's",
+               "playerLabel": "Welcome to USSR 80's",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib_USSR.png",
+               "action": "video:http://74.208.36.86:8888/channel/74f4be5c/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Sixth Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "0,3,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Welcome to USSR 90's",
+               "playerLabel": "Welcome to USSR 90's",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib_USSR.png",
+               "action": "video:http://74.208.36.86:8888/channel/74f532bb/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Seventh Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "0,4,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Fantasy FHD",
+               "playerLabel": "Fantasy FHD",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib_Fantasy.png",
+               "action": "video:http://74.208.36.86:8888/channel/n5551e798/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Ninth Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "6,4,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Crime FHD",
+               "titleFooter": "",
+               "playerLabel": "Crime FHD",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib_crime.png",
+               "action": "video:http://74.208.36.86:8888/channel/n6bb583cc/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Tenth Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "6,3,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}The Best Classic",
+               "playerLabel": "The Best Classic",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/The_Best.png",
+               "action": "video:http://74.208.36.86:8888/channel/n415d5afb/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Eighth Item"
+               }
+            }
+         ]
+      },
+      {
+         "offset": "0,0,0,1",
+         "headline": "тв каналы",
+         "items": [
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "0,0,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Fantasy FHD",
+               "playerLabel": "Fantasy FHD",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib_Fantasy.png",
+               "action": "video:http://74.208.36.86:8888/channel/n5551e798/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Ninth Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "6,0,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Crime FHD",
+               "titleFooter": "",
+               "playerLabel": "Crime FHD",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib_crime.png",
+               "action": "video:http://74.208.36.86:8888/channel/n6bb583cc/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Tenth Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "0,1,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Comedy FHD",
+               "titleFooter": "",
+               "playerLabel": "Comedy FHD",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib_Comedy.png",
+               "action": "video:http://74.208.36.86:8888/channel/33aa9d1b/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Eleventh Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "6,1,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}War FHD",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "playerLabel": "War FHD",
+               "image": "http://45.159.189.42/Logo/olsib_war.png",
+               "action": "video:http://74.208.36.86:8888/channel/n4e6c7cd6/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Twelfth Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "6,2,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Love story FHD",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "playerLabel": "Love story FHD",
+               "image": "http://45.159.189.42/Logo/olsb_women.png",
+               "action": "video:http://74.208.36.86:8888/channel/1290af6b/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Twelfth Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "0,2,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}VHS FHD",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "playerLabel": "VHS FHD",
+               "image": "http://45.159.189.42/Logo/olsib_VHS.png",
+               "action": "video:http://74.208.36.86:8888/channel/504f47c3/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Twelfth Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "0,3,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Walt Disney FHD",
+               "playerLabel": "Walt Disney FHD",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib_yolt.png",
+               "action": "video:http://74.208.36.86:8888/channel/50c55fc4/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Seventh Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "6,3,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Black Comedy HD",
+               "playerLabel": "Black Comedy HD",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib-Black_comedy.png",
+               "action": "video:http://74.208.36.86:8888/channel/50f91582/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Eighth Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "0,4,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Kids FHD",
+               "playerLabel": "Kids FHD",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib_kids.png",
+               "action": "video:http://74.208.36.86:8888/channel/n26d6ad44/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Ninth Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "6,4,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white} Galicia",
+               "titleFooter": "",
+               "playerLabel": "Crime FHD",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib_Galicia.png",
+               "action": "video:http://74.208.36.86:8888/channel/62fce224/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Tenth Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "0,5,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}RU.Music FHD",
+               "titleFooter": "",
+               "playerLabel": "RU.Music FHD",
+               "imageFiller": "cover",
+               "image": "http://45.159.189.42/Logo/olsib_music.png",
+               "action": "video:http://74.208.36.86:8888/channel/155d64ba/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Eleventh Item"
+               }
+            },
+            {
+               "type": "default",
+               "wrapperColor": "msx-glass",
+               "imageWidth": 2.5,
+               "layout": "6,5,6,1",
+               "enumerate": true,
+               "color": "msx-glass",
+               "titleHeader": "{col:msx-white}Wrestling HD",
+               "titleFooter": "",
+               "imageFiller": "cover",
+               "playerLabel": "Wrestling HD",
+               "image": "http://45.159.189.42/Logo/olsib_Impact_Wrestling_logo.webp",
+               "action": "video:http://74.208.36.86:8888/channel/n1545e1b3/index.mpeg?q=df52fd9255684668a9e5572ab2f2506c",
+               "properties": {
+                  "image:extension": "| {col:msx-white}Twelfth Item"
+               }
+            }
+         ]
+      }
+   ]
+}
