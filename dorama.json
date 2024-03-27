@@ -66,7 +66,7 @@
          "description": "{col:msx-white}{ico:movie}{sp}романтика, восточные единоборства, фэнтези{ico:public}{sp}Китай {ico:event}{sp}2024 {ico:timelapse}{sp}93{sp}мин {col:#FF7F50}{ico:stars}{sp}53%{sp}(857){br}{br}{col}Захватывающий дорама, который рассказывает о сложных отношениях между двумя главными героями, Чжен Юанем и Хан Юри. Чжен Юань - успешный и богатый бизнесмен, который кажется идеальным парнем для многих девушек. Однако, за обаянием и успехом скрывается прошлое, полное трагедий и тайн. {br}{br}{br}{br}{txt:msx-white:Режиссёр:} Chongchong Liu, Стив Чэн{br}{txt:msx-white:Актёры:} Жэнь Цзялунь, Син Фэй, Цао Юйчэнь, Джо Чэнь, Хей-Йи Чэн, Yahan Cui, Ye Ding, Джон До, Ду Юймин, Гу Цзычэн{br}",
          "backdrop": "https://steamuserimages-a.akamaihd.net/ugc/789757166978503006/C35A3C2F606F4FDEBF7D9ED3C2365EC9CE719660/?imw=512&amp;imh=512&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true",
          "image": "https://i.pinimg.com/736x/64/77/7b/64777b5fd169bd2fb8f6f28645ad877e.jpg",
-     "action": "video:resolve:request:interaction: https://cloud.kodik-storage.com/useruploads/90428c60-33ec-4858-af7d-c76fdc40dee4/a4116733b08149b3e04242590e18be17:2024032708/720.mp4:hls:manifest.m3u8@http://msx.benzac.de/interaction/play.html&name=Девушка Миллера"
+     "action": "video:resolve:request:interaction: https://cloud.kodik-storage.com/useruploads/90428c60-33ec-4858-af7d-c76fdc40dee4/a4116733b08149b3e04242590e18be17:2024032708/360.mp4:hls:manifest.m3u8@http://msx.benzac.de/interaction/play.html&name=Девушка Миллера"
       }
    ]
 }
